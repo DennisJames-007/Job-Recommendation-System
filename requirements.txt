@@ -1,0 +1,10 @@
+pyresparser==1.0.6
+streamlit==1.25.0
+python-docx==0.8.11
+ftfy==6.1.1
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.25.2
+nltk==3.8.1
+pdfminer.six==20221105
+spacy==2.3.7
